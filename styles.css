@@ -1,0 +1,36 @@
+@font-face {
+  font-family: "Inter";
+  src: url("./assets/fonts/Inter-VariableFont_slnt,wght.ttf");
+}
+
+body,
+html {
+  font-family: "Inter", sans-serif;
+}
+
+.at-title,
+.carte-titre {
+  font-weight: 900;
+}
+.r-more {
+  letter-spacing: 5px;
+  transition: all 300ms;
+  border-radius: 0;
+}
+.r-more:hover {
+  background: black;
+  border-color: black;
+}
+
+.aside-link:hover {
+  color: #e4a11b;
+}
+.nav-link {
+  transition: all 300ms;
+}
+.nav-link:hover {
+  color: #dc4c64 !important;
+}
+.carte-link:hover {
+  color: #dc4c64 !important;
+}
