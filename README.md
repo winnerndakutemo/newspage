@@ -34,8 +34,8 @@ This is the screenshot of my solution in a desktop.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/winnerndakutemo/newspage]
+- Live Site URL: [https://www.newshomepagechallenge2024.netlify.app]
 
 ## My process
 
